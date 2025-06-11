@@ -11,6 +11,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -23,9 +24,10 @@
 ---
 
 ## 🎯 Currently Focusing On
-- Building scalable APIs with FastAPI 🚀  
-- Advanced PostgreSQL tuning 📈  
-- Deploying to AWS using CI/CD pipelines ☁️  
+- 🚀 Building scalable, production-ready APIs with FastAPI  
+- ⚛️ Enhancing frontend skills with React and modern UI practices  
+- 📊 Optimizing performance for PostgreSQL databases  
+- ☁️ Learning cloud deployment and CI/CD automation with Docker & AWS  
 
 ---
 
