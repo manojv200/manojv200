@@ -1,9 +1,11 @@
-# 👋 I’m Manoj Kumar V, a backend developer specializing in Python, Django, and FastAPI.
+# 👋 Hello! I'm Manoj Kumar V
 
-![Profile Views](https://komarev.com/ghpvc/?username=manojv200&color=blue)  
-🎯 Passionate Python Backend Developer | 🐍 Django | ⚡ FastAPI | 🚀 DevOps Enthusiast  
+![Profile Views](https://komarev.com/ghpvc/?username=manojv200&color=blue)
+
+🎯 Backend Developer | 🐍 Python Enthusiast | 🌐 Django & FastAPI Specialist | 🚀 DevOps Learner  
 
 ---
+
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -20,15 +22,13 @@
 
 ---
 
-## 🌱 Current Learning Goals
+## 🎯 Currently Focusing On
 - Building scalable APIs with FastAPI 🚀  
 - Advanced PostgreSQL tuning 📈  
 - Deploying to AWS using CI/CD pipelines ☁️  
 
 ---
 
-## 📫 How to Reach Me:
+## 📫 Let's Connect
 📧 manoj.vkumar200@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/manoj-kumar-v-7b7914224)  
-🌐 [Portfolio Website (optional)](#)
-
