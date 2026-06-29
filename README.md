@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Manoj Kumar V
+<p align="center">
+  <img src="./banner.jpg" width="100%" alt="Banner">
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=manojv200&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
